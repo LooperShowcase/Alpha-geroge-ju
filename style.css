@@ -1,0 +1,46 @@
+ p{           
+        color: rgb(99, 25, 25);
+    }
+ h1{
+    color: hsl(61, 86%, 37%);  
+}   
+body{
+    background-color: rgb(255, 170, 0);
+}
+   
+#geroge
+{
+    background-color: blue;
+}
+#abibas{
+
+    background-color: aquamarine            ;
+}
+    
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+  }
+  
+  li {  background-color: rgb(159, 10, 131);
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  div {
+
+    border-radius: 1069px;
+  }
